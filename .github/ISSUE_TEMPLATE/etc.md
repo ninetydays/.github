@@ -1,7 +1,7 @@
 ---
 name: Etc
 about: Tasks neither bug report nor feature request
-title: '[Etc]'
+title: "[Etc]"
 labels: task
 ---
 
@@ -15,8 +15,8 @@ A clear and concise description of what you want to happen.
 
 #### Todos
 
--   [ ] item 1
--   [ ] item 2
+- [ ] item 1
+- [ ] item 2
 
 ### 3. Additional context
 

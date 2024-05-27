@@ -1,7 +1,7 @@
 ---
 name: Feature request
 about: Request new feature
-title: '[Feat]'
+title: "[Feat]"
 labels: enhancement  (개선확장)
 ---
 
@@ -15,8 +15,8 @@ A clear and concise description of what you want to happen.
 
 #### Todos
 
--   [ ] item 1
--   [ ] item 2
+- [ ] item 1
+- [ ] item 2
 
 ### 3. Additional context
 
